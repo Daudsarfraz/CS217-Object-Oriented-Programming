@@ -4,7 +4,7 @@ using namespace std;
 // class declaration
 class input{
 	
-  	public: // Access specifier
+  	public: // Access specifier 
         float i;// Attribute (int variable)
 
 	};
